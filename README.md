@@ -5,6 +5,6 @@ Aplicación ligera y ejecutable de 364 KB (no requiere instalación). Funciona b
 
 Nota: La librería SmartIRC4net (.dll) se integró junto al ejecutable utilizando ILMerge, lo que podría generar un falso positivo en algunos antivirus o el bloqueo por parte del navegador. Para evitar este inconveniente, también se ofrece una versión comprimida en el archivo "Mini-IRCap.2.3.rar", que incluye la .dll por separado.
 
-*El proyecto con el código fuente se subirá en breve...
+*El proyecto con el código fuente se subirá en un futuro...
 
 Web: https://www.mini-ircap.com

@@ -14,7 +14,10 @@ YouTube: [Video Mini-IRCap](https://www.youtube.com/watch?v=canENWhkpyU)
 
 ------------------------------------------------------------
 
-Para mayor confianza y tranquilidad, recomiendo analizar Mini-IRCap en [VirusTotal](https://www.virustotal.com/) antes de ejecutarlo. La librería SmartIRC4net (.dll) ha sido integrada al compilar el programa mediante ILRepack, lo que podría generar falsos positivos en algunos antivirus, especialmente en los de dudosa reputación. Además, aunque el archivo está autofirmado, es posible que su navegador bloquee el acceso. Si esto representa un inconveniente, también está disponible la versión base, comprimida en "Mini-IRCap.2.5.rar", que incluye la DLL por separado.
+La librería SmartIRC4net (.dll) ha sido integrada en el ejecutable mediante ILRepack, lo que podría generar falsos positivos en algunos antivirus, especialmente en aquellos de dudosa reputación. Además, aunque el archivo está autofirmado, su navegador podría bloquear el acceso.
+Si esto representa un inconveniente, también está disponible una versión base comprimida en "Mini-IRCap.2.5.rar", que incluye la DLL por separado.
+
+Dado que carezco de reputación y soy un programador amateur, recomiendo analizar Mini-IRCap en [VirusTotal](https://www.virustotal.com/) antes de ejecutarlo, para mayor confianza y tranquilidad.
 
 Les invito a verificar los resultados por ustedes mismos y a contrastar la información con fuentes fiables.
 

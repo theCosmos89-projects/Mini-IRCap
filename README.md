@@ -1,7 +1,7 @@
 # Mini-IRCap v2.5
 Cliente GUI de IRC en español para Windows, inspirado en el script para mIRC, IRcap. Desarrollado en VB.NET utilizando la librería SmartIRC4net de Meebey.
 
-Aplicación ligera y ejecutable de 408 KB (no requiere instalación). Compatible con cualquier red de IRC, está optimizada para la red de Irc-Hispano, con soporte para conexión cifrada SSL, admite eventos comunes y comandos básicos, opciones de Operador ("@") en menú, decodificación de texto con formato decorativo, fuente personalizable, tamaño de texto ajustable y cuatro colores de fondo disponibles. Cuenta con numerosos detalles refinados que la convierten en una aplicación intuitiva, fácil de usar, funcional y, sobre todo, práctica.
+Aplicación ligera y ejecutable de 410 KB (no requiere instalación). Compatible con cualquier red de IRC, está optimizada para la red de Irc-Hispano, con soporte para conexión cifrada SSL, admite eventos comunes y comandos básicos, opciones de Operador ("@") en menú, decodificación de texto con formato decorativo, fuente personalizable, tamaño de texto ajustable y cuatro colores de fondo disponibles. Cuenta con numerosos detalles refinados que la convierten en una aplicación intuitiva, fácil de usar, funcional y, sobre todo, práctica.
 
 Interfaz:
 

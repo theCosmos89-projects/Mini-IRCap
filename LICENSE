@@ -1,0 +1,38 @@
+🛡️ Mini-IRCap 2.5 – Aviso Legal y Condiciones de Uso
+Copyright © 2025 cosmos89
+
+Este software está protegido por derechos de autor. Se permite su uso, copia y distribución con fines personales y no comerciales, siempre que se conserve este aviso y los créditos de bibliotecas de terceros.
+
+🧾 **Condiciones de uso**
+1. El uso del software debe ser responsable y respetar las normas y políticas de las redes IRC a las que se conecte.
+
+2. Está estrictamente prohibido utilizar este software para actividades ilegales, envío de spam, flood, ataques o cualquier acción contraria a las políticas de los servidores IRC.
+
+3. No se permite modificar, redistribuir ni crear derivados del software sin autorización previa y por escrito del autor original.
+
+💼 **Uso comercial**
+Cualquier uso comercial, distribución con fines lucrativos o integración en productos comerciales requiere el consentimiento expreso del titular de los derechos de autor.
+
+⚠️ **Exención de responsabilidad**
+Este software se proporciona "tal cual", sin garantías de ningún tipo, expresas o implícitas.  
+No se garantiza que el programa sea libre de errores, ni que funcione correctamente en todos los sistemas o situaciones.
+El autor no será responsable por ningún daño, pérdida o consecuencia directa o indirecta que resulte del uso o mal uso de este software.
+
+Este proyecto es de uso personal y experimental, y **no tiene fines comerciales**.
+
+📚 **Librerías de terceros**
+Mini-IRCap 2.5 utiliza la biblioteca de código abierto SmartIrc4net para la comunicación con servidores IRC, licenciada bajo la Licencia MIT, que permite su uso, modificación y redistribución siempre que se mantengan los avisos de copyright.
+
+● Nombre: SmartIrc4net
+
+● Autor: Mirco Bauer (meebey)
+
+● Licencia: MIT
+
+● Repositorio y licencia original:
+https://github.com/meebey/SmartIrc4net/blob/master/LICENSE
+
+Se incluye esta mención en cumplimiento de los términos de dicha licencia.
+
+✅ **Aceptación**
+El uso de este software implica la aceptación total e incondicional de los términos establecidos en este documento.
